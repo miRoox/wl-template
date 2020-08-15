@@ -1,6 +1,6 @@
 BeginTestSection["Basic"]
 
-Needs["<Package>`"]
+Needs["Package`"]
 
 VerificationTest[
   1+1

@@ -1,6 +1,6 @@
 (* Mathematica Package *)
 
-BeginPackage["<Package>`"];
+BeginPackage["Package`"];
 
 (* Exported symbols added here with SymbolName::usage *)
 
