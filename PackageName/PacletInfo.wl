@@ -1,7 +1,7 @@
 (* Paclet Info File *)
 Paclet[
   "Name"->"PackageName",
-  "Version"->"0.1",
+  "Version"->"0.1.0",
   "MathematicaVersion"->"12.1+",
   "Description"->"",
   "Creator"->"miRoox <miRoox@outlook.com>",
