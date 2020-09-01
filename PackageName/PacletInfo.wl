@@ -1,19 +1,19 @@
 (* Paclet Info File *)
 Paclet[
-  "Name"->"Package",
+  "Name"->"PackageName",
   "Version"->"0.1",
   "MathematicaVersion"->"12.1+",
   "Description"->"",
   "Creator"->"miRoox <miRoox@outlook.com>",
   "License" -> "MIT",
-  "Support"->"https://github.com/miRoox/Package/issues",
-  "URL"->"https://github.com/miRoox/Package",
+  "Support"->"https://github.com/miRoox/PackageName/issues",
+  "URL"->"https://github.com/miRoox/PackageName",
   (*Thumbnail -> "icon.png",*)
   "Extensions"->{
     {
       "Kernel",
       (*"Root"->"Kernel",*)
-      "Context"->"Package`",
+      "Context"->"PackageName`",
       "Symbols"->{}
     },
     {"FrontEnd",

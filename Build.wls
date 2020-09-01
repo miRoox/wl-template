@@ -2,7 +2,7 @@
 (* ::Package:: *)
 
 
-$projectName="Package"; (*replace*)
+$projectName="PackageName"; (*replace*)
 
 $pacletDir=FileNameJoin@{DirectoryName[$InputFileName], $projectName};
 

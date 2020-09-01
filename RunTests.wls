@@ -2,7 +2,7 @@
 (* ::Package:: *)
 
 
-$projectName="Package"; (*replace*)
+$projectName="PackageName"; (*replace*)
 
 If[FailureQ@Environment["WOLFRAM_ID"],
   CloudConnect[],
